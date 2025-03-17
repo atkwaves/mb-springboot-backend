@@ -1,3 +1,9 @@
+# 0.1.1
+[17/03/2025]
+
+### Melhorias
+* Configuração inicial do banco de dados PostgreSQL.
+
 # 0.1.0
 [09/02/2025]
 
