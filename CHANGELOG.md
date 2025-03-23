@@ -1,3 +1,9 @@
+# 0.1.2
+[23/03/2025]
+
+### Novas funcionalidades
+* Implementação do endpoint `POST /products` para cadastro de produtos.
+
 # 0.1.1
 [17/03/2025]
 
