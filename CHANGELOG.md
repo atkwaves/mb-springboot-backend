@@ -1,3 +1,14 @@
+# 0.1.3
+[31/03/2025]
+
+### Novas funcionalidades
+
+* Implementação dos endpoints restantes do CRUD para produtos:
+  * `GET /products` — Listagem de todos os produtos.
+  * `GET /products/{id}` — Busca de produto por ID.
+  * `PUT /products/{id}` — Atualização de um produto existente.
+  * `DELETE /products/{id}` — Remoção de um produto.
+
 # 0.1.2
 [23/03/2025]
 
