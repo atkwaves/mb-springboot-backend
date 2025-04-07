@@ -1,3 +1,12 @@
+# 0.1.4
+[07/04/2025]
+
+### Novas funcionalidades
+* Implementação de HATEOAS nos endpoints de listagem e consulta de produtos para permitir navegação entre recursos.
+
+### Alterações de dependências
+* `spring-boot-starter-hateoas`: N/A > 3.4.2
+
 # 0.1.3
 [31/03/2025]
 
@@ -33,5 +42,3 @@
 * `spring-boot-starter-validation`: N/A > 3.4.2
 * `spring-boot-starter-test`: N/A > 3.4.2
 * `postgresql`: N/A > 42.7.5
-
-
